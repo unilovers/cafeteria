@@ -1,10 +1,10 @@
-package com.grupo_11.cafeteria.Model.service;
+package cafeteria.Model.service;
 
-import com.grupo_11.cafeteria.Model.dto.PedidoDTO;
-import com.grupo_11.cafeteria.Model.Repository.PedidoRepository;
-import com.grupo_11.cafeteria.Model.entities.Atendente;
-import com.grupo_11.cafeteria.Model.entities.Cliente;
-import com.grupo_11.cafeteria.Model.entities.Pedido;
+import cafeteria.Model.dto.PedidoDTO;
+import cafeteria.Model.Repository.PedidoRepository;
+import cafeteria.Model.entities.Atendente;
+import cafeteria.Model.entities.Cliente;
+import cafeteria.Model.entities.Pedido;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
