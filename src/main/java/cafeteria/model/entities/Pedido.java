@@ -1,4 +1,4 @@
-package cafeteria.Model.entities;
+package cafeteria.model.entities;
 
 import jakarta.persistence.*;
 import java.math.BigDecimal;
