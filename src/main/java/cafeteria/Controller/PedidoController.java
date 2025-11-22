@@ -1,4 +1,4 @@
-package com.grupo_11.cafeteria.Controller;
+package cafeteria.Controller;
 
 import cafeteria.dto.PedidoDTO;
 import cafeteria.Model.entities.Pedido;
