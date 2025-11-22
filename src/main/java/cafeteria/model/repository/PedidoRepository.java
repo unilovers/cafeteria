@@ -1,6 +1,6 @@
-package com.grupo_11.cafeteria.Model.Repository;
+package cafeteria.Model.Repository;
 
-import com.grupo_11.cafeteria.Model.entities.Pedido;
+import cafeteria.Model.entities.Pedido;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
